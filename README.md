@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laeh03
-- 👀 I’m interested in Software Enginnering, and Data Ananlytics.
+- 👀 I’m interested in Software Enginnering, and Data Analytics.
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on projects to learn and grow
 - 📫 Email; Nixshaa@icloud.com
